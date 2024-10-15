@@ -1,0 +1,105 @@
+*,
+html{
+    border: 100px solid black;
+    
+    padding: 0;
+    margin: 2;
+ } 
+  
+  body{ 
+    border: 5px solid rgb(0, 0, 0);
+
+  }
+
+  .banner{
+       background-color: black;
+        border: 85px solid rgb(0, 0, 0);
+         width: 90%;
+        height: 100%   ;
+        display: flex;
+        justify-content: center;
+        align-items: center; 
+      
+  }
+.ul-navbar {
+    background-color: rgb(0, 0, 0);
+display: flex;
+height: 100px;
+justify-content: center;
+align-items: center;
+
+}
+
+.li-navbar{
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    list-style-type: none;
+    padding: 20px;
+    margin: 5px;  
+    border-radius: 50px; 
+    font-style: italic;
+    font: icon ; 
+    font-size: 20px;
+}
+
+.li-navbar:hover {
+    background-color: rgb(10, 10, 10);
+    transition:.3s ease-in-out ;
+    border-radius: 10px;
+}
+.container-content{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-content{
+    width: 50%;
+    height: 50%;
+}
+
+.container-last{
+    background-color: rgb(255, 254, 254);
+    border: 100px solid white  ;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.h1-last{
+    font-size: 50px;
+
+}
+.er{
+    border:15px solid black;
+
+}
+
+.table{
+    border-radius: 15px;
+    height: 50px;
+    width: 500px;
+
+    border: 5px solid black
+
+
+}
+
+.erd{
+
+    border-radius: 15px;
+    border: 5px solid black
+}   
+.erd{
+    border-radius:15px;
+}
+
+.sdm1{
+    border: 5px solid white ;
+}
+
+
+
+
+
